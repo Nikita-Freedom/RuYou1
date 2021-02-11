@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RuYou1</string>
+    <string name="desc_target_hint">Target</string>
+    <string name="desc_response_hint">Response</string>
+    <string name="desc_make_photo">Сделать фото</string>
+    <string name="dia_surname">Фамилия</string>
+    <string name="dia_name">Имя</string>
+    <string name="dia_patronymic">Отчество</string>
+    <string name="dia_photo">Фото</string>
+    <string name="dia_btn_no">Нет</string>
+    <string name="dia_btn_repeat">Переснять</string>
+    <string name="dia_btn_yes">Да</string>
+</resources>
