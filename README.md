@@ -21,6 +21,7 @@
 ![Image alt](https://github.com/Nikita-Freedom/RuYou1/blob/master/img_dialog_server.PNG)
 
 После отправки данных в поле "Response" выводится ответ с сервера.
+
 ![Image alt](https://github.com/Nikita-Freedom/RuYou1/blob/master/img_response.PNG)
 
 Мы можем открыть фото в полноэкранном режиме нажав на него. Повторное нажатие на фото вернет его к исходному размеру.
